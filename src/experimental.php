@@ -64,6 +64,8 @@ function calc_cts($p_type)
 }
 
 
+// FONCTION ordr_pz (order pizza, 1er param le type de pizza, 2ième param le nom de celui qui commande)
+
 ordr_pz('calzone','nico');
 ordr_pz('marguerita', 'nick');
 ordr_pz('golden', 'students');
