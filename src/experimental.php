@@ -69,6 +69,7 @@ function calc_cts($p_type)
 ordr_pz('calzone','nico');
 ordr_pz('marguerita', 'nick');
 ordr_pz('golden', 'students');
+ordr_pz('fromage', 'inconnu');
 
 
 // 
